@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9630f5df-3040-4a37-925f-57ac8ca7fecf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorK2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/fo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex54list/pr1/f.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/Ex5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/LockWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/WeightedRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/HashMapIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/RemoveSpacesFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/RemoveSpacesWithoutReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/ReverseSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/SecondLargestNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/SwapWithTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/SwapWithoutTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/exercise31/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/vector/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1/vector/ranVector.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cAzyvkuCMWQpQeWdsapZCTJkqn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArraySearch.executor": "Run",
+    "Application.Ex1.executor": "Run",
+    "Application.Ex10.executor": "Run",
+    "Application.Ex11.executor": "Run",
+    "Application.Ex12.executor": "Run",
+    "Application.Ex13.executor": "Run",
+    "Application.Ex14.executor": "Run",
+    "Application.Ex2.executor": "Run",
+    "Application.Ex3.executor": "Run",
+    "Application.Ex4.executor": "Run",
+    "Application.Ex6.executor": "Run",
+    "Application.Ex7.executor": "Run",
+    "Application.Ex8.executor": "Run",
+    "Application.Ex9.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.HashMapIteration.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PalindromeCheck.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.ReadExcelFile.executor": "Run",
+    "Application.RemoveSpacesFromString.executor": "Run",
+    "Application.RemoveSpacesWithoutReplace.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SecondLargestNumberInArray.executor": "Run",
+    "Application.SwapWithTemp.executor": "Run",
+    "Application.SwapWithoutTemp.executor": "Run",
+    "Application.WeightedRandom.executor": "Run",
+    "Application.WordCounter.executor": "Run",
+    "Application.ex1.ArraySearch.ArraySearch.executor": "Run",
+    "Application.f.executor": "Run",
+    "Application.ranVector.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/10400/Downloads/selenium-java-4.17.0/selenium-chromium-driver-4.17.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaProject\HomeWorK2\src\ex1\exercise31" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.f">
+    <configuration name="ReadExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1.exercise31.ReadExcelFile" />
+      <module name="HomeWorK2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1.exercise31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveSpacesFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1.exercise31.RemoveSpacesFromString" />
+      <module name="HomeWorK2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1.exercise31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveSpacesWithoutReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1.exercise31.RemoveSpacesWithoutReplace" />
+      <module name="HomeWorK2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1.exercise31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondLargestNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1.exercise31.SecondLargestNumberInArray" />
+      <module name="HomeWorK2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1.exercise31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="f" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex54list.pr1.f" />
+      <module name="HomeWorK2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex54list.pr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.f" />
+        <item itemvalue="Application.ReadExcelFile" />
+        <item itemvalue="Application.RemoveSpacesWithoutReplace" />
+        <item itemvalue="Application.RemoveSpacesFromString" />
+        <item itemvalue="Application.SecondLargestNumberInArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9630f5df-3040-4a37-925f-57ac8ca7fecf" name="Changes" comment="" />
+      <created>1707569437629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707569437629</updated>
+      <workItem from="1707569439641" duration="11455000" />
+      <workItem from="1707588847204" duration="7871000" />
+      <workItem from="1707655351268" duration="10665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex1/Ex1.java</url>
+          <line>3</line>
+          <properties class="ex1.Ex1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex1/exercise31/RemoveSpacesWithoutReplace.java</url>
+          <line>4</line>
+          <properties class="ex1.exercise31.RemoveSpacesWithoutReplace" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
